@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "445F093E-2753-45E8-A403-9007F8A4A2A8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "745F3DD8-5B22-410C-A4FB-C3D8F5083297"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ED59361-1161-46DD-BDD6-115910EE0AC9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0F8B6C4-8F13-4AAA-8436-22623FEE1B2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92BC701B-33C2-416D-B81E-1E643B2C9332"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "92BC701B-33C2-416D-B81E-1E643B2C9332 - 6e5c21fbee027933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "92BC701B-33C2-416D-B81E-1E643B2C9332 - 6e5c21fbee027933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "456C3929-19F7-4391-A133-905373916EE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Models/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "specifySong(index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "456C3929-19F7-4391-A133-905373916EE9 - 2d8c41d66dd2cae8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.playTheSong(Swift.Int) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "221">
+               </Location>
+               <Location
+                  uuid = "456C3929-19F7-4391-A133-905373916EE9 - d51dc1207e9f6152"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.specifySong(index: Swift.Int) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "794">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B16A03F7-1A11-4FA6-9E12-55D6B88047B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Models/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "specifySong(index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B16A03F7-1A11-4FA6-9E12-55D6B88047B8 - 2d8c41d66dd2ca6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.playTheSong(Swift.Int) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "781">
+               </Location>
+               <Location
+                  uuid = "B16A03F7-1A11-4FA6-9E12-55D6B88047B8 - d51dc1207e9f61b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.specifySong(index: Swift.Int) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1011">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "508B365A-20F2-4163-AA10-2D93A9736117"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Models/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "specifySong(index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "508B365A-20F2-4163-AA10-2D93A9736117 - 2d8c41d66dd2c9f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.playTheSong(Swift.Int) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1185">
+               </Location>
+               <Location
+                  uuid = "508B365A-20F2-4163-AA10-2D93A9736117 - d51dc1207e9f61d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.specifySong(index: Swift.Int) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "1955">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DDAA0C7-891D-4EB2-9847-4290CABD38B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Models/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "specifySong(index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DDAA0C7-891D-4EB2-9847-4290CABD38B7 - 2d8c41d66dd2c910"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.playTheSong(Swift.Int) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2906">
+               </Location>
+               <Location
+                  uuid = "4DDAA0C7-891D-4EB2-9847-4290CABD38B7 - d51dc1207e9f6614"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.specifySong(index: Swift.Int) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1290">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AB7AB88-0064-4C2E-BED4-C525729B798B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Models/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "audioPlayerDidFinishPlaying(_:successfully:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6AB7AB88-0064-4C2E-BED4-C525729B798B - 7504122287444916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.audioPlayerDidFinishPlaying(_: __C.AVAudioPlayer, successfully: Swift.Bool) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  uuid = "6AB7AB88-0064-4C2E-BED4-C525729B798B - 7504122287444916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.audioPlayerDidFinishPlaying(_: __C.AVAudioPlayer, successfully: Swift.Bool) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "6AB7AB88-0064-4C2E-BED4-C525729B798B - 7504122287444916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.audioPlayerDidFinishPlaying(_: __C.AVAudioPlayer, successfully: Swift.Bool) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D01329B9-5BBA-476A-B093-C908D156374A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Models/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "audioPlayerDidFinishPlaying(_:successfully:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D01329B9-5BBA-476A-B093-C908D156374A - d1c24fd40fb19e5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.playSong() -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "D01329B9-5BBA-476A-B093-C908D156374A - 75041222874449f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.audioPlayerDidFinishPlaying(_: __C.AVAudioPlayer, successfully: Swift.Bool) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  uuid = "D01329B9-5BBA-476A-B093-C908D156374A - 7504122287444a71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioPlayerApp.Model.audioPlayerDidFinishPlaying(_: __C.AVAudioPlayer, successfully: Swift.Bool) -&gt; ()"
+                  moduleName = "AudioPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertbikmurzin/Desktop/learning/Portfolio/AudioPlayerApp/AudioPlayerApp/Models/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "234">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "906E63FD-66FD-4F9A-A292-E2D2924142AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Controllers/SongListScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "playerVCWillDisappear()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23408C52-E86B-4630-9EC2-9DC77ACA9CA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioPlayerApp/Controllers/SongListScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "playerVCWillDisappear()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

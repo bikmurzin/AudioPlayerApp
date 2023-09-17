@@ -1,0 +1,39 @@
+[
+    
+    {
+        "fileName": "song1",
+        "artistName": "Coldplay",
+        "trackName": "Talk"
+    },
+    {
+        "fileName": "song2",
+        "artistName": "Coldplay",
+        "trackName": "Til Kingdom Come"
+    },
+    {
+        "fileName": "song3",
+        "artistName": "Coldplay feat. Beyonce",
+        "trackName": "Hymn For The Weekend"
+    },
+    {
+        "fileName": "song4",
+        "artistName": "Evanescence",
+        "trackName": "Bring Me To Life"
+    },
+    {
+        "fileName": "song5",
+        "artistName": "Evanescence",
+        "trackName": "What You Want"
+    },
+    {
+        "fileName": "song6",
+        "artistName": "Nirvana",
+        "trackName": "Frances Farmer Will Have Her"
+    },
+    {
+        "fileName": "song7",
+        "artistName": "Nirvana",
+        "trackName": "The Men Who Sold The World"
+    }
+
+]
